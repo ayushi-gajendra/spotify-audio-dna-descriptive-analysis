@@ -14,7 +14,7 @@ This repository is the foundation of a three-part series analyzing the musical a
 
 1. **Part 1: Descriptive Statistics (This Repo)** - Summarizing the "DNA" of hit songs.
 2. [Part 2: Inferential Statistics](https://github.com/ayushi-gajendra/Spotify-hit-analysis_Inferential-Statistics) - Modeling track modality and predicting outcomes.
-3. [Part 3: Distribution Analysis](https://www.google.com/search?q=https://github.com/ayushi-gajendra/Spotify-hit-analysis_Distribution-analysis) - Validating the Empirical Rule and Normality.
+3. [Part 3: Distribution Analysis](https://github.com/ayushi-gajendra/Spotify-hit-analysis_Distribution-analysis) - Validating the Empirical Rule and Normality.
 
 ---
 
